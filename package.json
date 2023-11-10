@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/alessandroportes/ChatBot-Cod3r-Udemy#readme",
   "dependencies": {
-    "axios": "0.21.2",
+    "axios": "1.6.0",
     "moment": "2.29.4",
     "telegraf": "3.17.3"
   }
